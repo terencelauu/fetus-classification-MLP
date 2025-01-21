@@ -23,5 +23,6 @@ Here is the table in text format:
 | 4               | 32            | 200             | 2                 | 0.00070867        | 74.14                 |
 | 5               | 64            | 50              | 1                 | 0.00029804        | 68.97                 |
 
+<br> 
 
 ![image](https://github.com/user-attachments/assets/c38d7df1-888c-46c3-838b-6c864023f94e)
